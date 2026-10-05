@@ -101,7 +101,7 @@ Me tornar um <strong>Desenvolvedor Full-Stack profissional</strong>, construir p
 <h2>💡 Filosofia</h2>
 
 <blockquote>
-<strong>"IA não é uma muleta, é uma ferramenta — aprenda."</strong>
+<strong>"IA não é uma muleta, é uma ferramenta — pratique."</strong>
 </blockquote>
 
 ---
