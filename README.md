@@ -1,19 +1,28 @@
-# Olá 👋, eu sou Samuel
+<h1 align="center">Olá 👋, eu sou Samuel</h1>
 
-💻 **Desenvolvedor Full-Stack em formação**
-🇧🇷 Brasil
+<h3 align="center">💻 Desenvolvedor Full-Stack em formação • 🇧🇷 Brasil</h3>
 
-Sou um desenvolvedor focado em **desenvolvimento web, resolução de problemas e aprendizado contínuo**.
-
-Atualmente, estudo **JavaScript, Node.js, React, bancos de dados e desenvolvimento backend**, enquanto construo meus próprios projetos para aprimorar minhas habilidades na prática.
-
-Tenho especial interesse em **desenvolvimento full-stack, APIs, autenticação, bancos de dados e construção de aplicações reais**.
+<p align="center">
+  JavaScript • React • Node.js • Prisma • MongoDB • PostgreSQL
+</p>
 
 ---
 
-## 🌐 Onde me encontrar
+<h2>🚀 Sobre mim</h2>
 
-<p align="left">
+<p>
+Sou um desenvolvedor focado em <strong>desenvolvimento web full-stack</strong>, construindo projetos e aprimorando minhas habilidades na prática.
+</p>
+
+<p>
+Atualmente trabalho com <strong>JavaScript, React, Node.js, APIs, bancos de dados e autenticação</strong>.
+</p>
+
+---
+
+<h2>🌐 Entre em contato</h2>
+
+<p>
   <a href="https://github.com/devSamuelVeloso">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -24,22 +33,9 @@ Tenho especial interesse em **desenvolvimento full-stack, APIs, autenticação, 
 
 ---
 
-## 🧠 No que estou trabalhando
+<h2>🛠️ Tecnologias</h2>
 
-* 🚀 Construindo meus próprios projetos full-stack
-* ⚛️ Desenvolvendo interfaces com React
-* 🟢 Construindo APIs com Node.js
-* 🔐 Aprendendo sobre autenticação e segurança
-* 🗄️ Trabalhando com bancos de dados e Prisma
-* 🧩 Melhorando minha resolução de problemas e lógica de programação
-* 📚 Estudando arquitetura backend e boas práticas de desenvolvimento
-* 🌎 Me preparando para uma futura carreira como desenvolvedor internacional
-
----
-
-## 🛠️ Tecnologias
-
-### Frontend
+<h3>Frontend</h3>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
@@ -47,73 +43,65 @@ Tenho especial interesse em **desenvolvimento full-stack, APIs, autenticação, 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge\&logo=styled-components\&logoColor=white)
 
-### Backend
+<h3>Backend</h3>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
 
-### Bancos de dados
+<h3>Bancos de dados</h3>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### Ferramentas
+<h3>Ferramentas</h3>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 ---
 
-## 🚀 Projeto em destaque
+<h2>🚀 Projeto em destaque</h2>
 
-### NEXIS
+<h3>NEXIS</h3>
 
-**NEXIS** é uma rede social voltada para desenvolvedores, criada para combinar ideias de plataformas como **Twitter, Instagram e GitHub** em um único lugar.
+<p>
+Uma rede social para desenvolvedores, inspirada em <strong>Twitter, Instagram e GitHub</strong>.
+</p>
 
-O projeto está sendo desenvolvido com foco em:
-
-* 🔐 Autenticação e contas de usuário
-* 👤 Perfis de desenvolvedores
-* 📝 Publicações e compartilhamento de conteúdo
-* 🌐 APIs REST
-* 🗄️ Integração com banco de dados
-* ⚛️ Frontend com React
-* 🟢 Backend com Node.js
+<p>
+⚛️ React &nbsp; • &nbsp; 🟢 Node.js &nbsp; • &nbsp; 🗄️ Prisma &nbsp; • &nbsp; 🍃 MongoDB
+</p>
 
 > **Conecte-se. Construa. Compartilhe.**
 
 ---
 
-## 📚 Atualmente estudando
+<h2>📚 Atualmente estudando</h2>
 
 * JavaScript avançado
-* Node.js e desenvolvimento backend
-* Arquitetura de APIs REST
-* Autenticação e autorização
-* Prisma e modelagem de bancos de dados
+* Node.js e desenvolvimento Backend
+* APIs REST
+* Autenticação
 * PostgreSQL
 * Docker
 * React
-* Arquitetura de software e código limpo
-* Inglês para desenvolvimento de software
+* Arquitetura de software
 
 ---
 
-## 🎯 Objetivos
+<h2>🎯 Objetivos</h2>
 
-Meu objetivo a longo prazo é me tornar um **desenvolvedor full-stack profissional**, trabalhar com equipes internacionais e, futuramente, trabalhar remotamente para empresas fora do Brasil.
-
-Estou focado em construir uma base sólida em vez de simplesmente copiar código — entendendo **por que as coisas funcionam, como os sistemas são estruturados e como resolver problemas de forma independente**.
-
----
-
-## 💡 Filosofia
-
-> **"IA não é uma muleta, é uma ferramenta — aprenda."**
-
-Uso IA como uma ferramenta para aprender, pesquisar, encontrar e corrigir erros e explorar ideias, mantendo o foco em entender os fundamentos e desenvolver minha própria capacidade de resolver problemas.
+<p>
+Me tornar um <strong>Desenvolvedor Full-Stack profissional</strong>, construir produtos reais e trabalhar com equipes internacionais.
+</p>
 
 ---
 
-⭐ Se você encontrar algo interessante por aqui, fique à vontade para explorar meus repositórios.
+<h2>💡 Filosofia</h2>
+
+<blockquote>
+<strong>"IA não é uma muleta, é uma ferramenta — aprenda."</strong>
+</blockquote>
+
+---
