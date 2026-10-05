@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Samuel</h1>
 
-<h3 align="center">💻 Desenvolvedor Full-Stack em formação • 🇧🇷 Brasil</h3>
+<h3 align="center">💻 Desenvolvedor Full-Stack em formação • Brasil 🇧🇷</h3>
 
 <p align="center">
   JavaScript • React • Node.js • Prisma • MongoDB • PostgreSQL
